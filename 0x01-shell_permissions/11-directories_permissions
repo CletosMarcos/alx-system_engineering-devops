@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R a-x,go-w,+x .
+chmod a-x,go-w, -R +x .
